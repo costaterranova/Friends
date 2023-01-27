@@ -1,0 +1,20 @@
+Show me a calendar with people I need to call
+
+Tell me whene there are not many people to call me a calendar with people I need to call
+-- tell me how many holes I need to fill in for next week
+
+
+
+if not enough it's gonna tell you: there are not enough people for today: add somebody
+
+
+
+    Ideally, when you approach that limit, the algorithm tells you: add people!
+
+
+
+1) add all future calls to calendar
+2) add future text from future_text file
+3) add hypothetical future text
+
+4) add event function
