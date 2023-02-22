@@ -2,3 +2,4 @@ streamlit==1.17.0
 pandas
 datetime
 matplotlib
+streamlit-authenticator==0.1.5
